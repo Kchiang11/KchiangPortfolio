@@ -1,0 +1,63 @@
+header {
+	background-color: rgba(0, 0, 0, .3);
+	background-blend-mode: multiply;
+	margin: 1% 5% 5% 5%;
+}
+
+body {
+	margin: 2% 15% 5% 15%;
+    background-color: rgba(0,0,0,.8);
+    background-blend-mode: multiply;
+	color: white;
+	background-image: url("../images/paint-splatter.jpg");
+}
+
+nav {
+	font-family: trebuchet, helvetica, sans-serif;
+	font-size: 15px;
+	margin: 5px 0px 5px 0px;
+	text-align: center;
+	padding: 5px 0px 5px 0px;
+	color: #fff;
+}
+
+ul {
+	padding: 10px;
+}
+
+li {
+ 	 display: inline;
+ 	 padding: 0px 10px 0px 10px;
+}
+
+h1 {
+	font-size: 30px;
+	font-family: Trebuchet, helvetica, sans-serif;
+}
+
+h2 {
+	font-size: 20px;
+	font-family: Trebuchet, helvetica, sans-serif;
+}
+
+h4 {
+	font-size: 18px;
+	font-family: Trebuchet, helvetica, sans-serif;
+	padding:0px 0px 0px 0px;
+}
+
+h5 {
+	font-size: 16px;
+	font-family: Trebuchet, helvetica, sans-serif;
+	padding:0px 0px 0px 0px;
+}
+
+p {
+	color: white;
+	font-family: Trebuchet, helvetica, sans-serif;
+	font-weight: lighter;
+}
+
+a {
+	color: #fff;
+}
